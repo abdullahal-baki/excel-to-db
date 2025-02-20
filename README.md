@@ -21,7 +21,7 @@
 
 Download Link: https://github.com/abdullahal-baki/excel-to-db/releases
 
-Official Channel: https://t.me/bdixftphunter <br>
-Chat Group: https://t.me/bdixftpchat
+Official Channel: https://t.me/BakiSoftLabs <br>
+Chat Group: https://t.me/BakiSoftLabschat
 
 <img src='sample.png'>
