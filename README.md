@@ -1,23 +1,23 @@
-আসসালামু আলাইকুম। 
-যারা ডাটা এবং ডাটাবেজ নিয়ে কাজ করেন, তাদের জন্য আমি পাইথন দিয়ে ছোট্ট একটি টুল ডেভেলপ করেছি। 
+I have developed a small tool using Python for those who work with data and databases. 🎯
 
 # Excel to DB Data Import Tool 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abdullahal-baki/excel-to-db&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false" alt="Repo Views" />
 </p>
 
-### বৈশিষ্ট্য সমূহঃ 
+### Features:  
 
-১। খুব সহজে CSV এবং XLSX ফাইলের ডাটা ডাটাবেজে ইন্সার্ট করতে পারবেন। <br>
-২। MySQL এবং PostgreSQL এর জন্য টুলটি কার্যকরী। <br>
-৩। Local এবং Remote দুই ধরনের ডাটাবেজের সাথে এইটি কাজ করতে পারে। <br>
-৪। একবার ডাটাবেজ ডিটেইলস দিলে এটি পরবর্তী বার ব্যবহারের জন্য স্বয়ংক্রিয় ভাবে মনে রাখে। <br>
-৫। ইচ্ছা মত টেবিলের নাম দিতে পারবেন। <br>
-৬। স্বয়ংক্রিয় ভাবে ডাটা টাইপ বুঝতে পারে এবং সেই অনুযায়ী Schema সেট করে।<br>
+1. Easily insert data from CSV and XLSX files into the database.  
+2. Supports both MySQL and PostgreSQL databases.  
+3. Works with both local and remote databases.  
+4. Remembers database details automatically for future use.  
+5. Allows you to set custom table names.  
+6. Automatically detects data types and sets the schema accordingly.  
 
-### ব্যবহারবিধি: 
-- প্রথমে গিটহাব রিপো  গিয়ে Releases থেকে ফাইল গুলো ডাউনলোড করে একটি ফোল্ডারে রাখুন। 
-- তারপর সফটওয়্যার ফাইলটিতে ক্লিক করে ব্যবহার শুর করুন। 
+### Usage:  
+- First, go to the GitHub repository and download the files from the Releases section.  
+- Then, click on the software file to start using it.  
+
 
 Download Link: https://github.com/abdullahal-baki/excel-to-db/releases
 
